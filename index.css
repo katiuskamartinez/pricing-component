@@ -100,3 +100,8 @@ body{
 .btn-precio:hover{
     background: rgb(250, 93, 75 );
 }
+@media all and (max-width:425px){
+    .verano{
+        transform: scale(1);
+    }
+}
