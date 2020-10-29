@@ -61,13 +61,14 @@ body{
 }
 .columna{ 
     flex: 0 0 20%;
+    background-color: #fff;
     color: #333333;
     border:1px solid #333;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 8px;
     box-shadow: 8px 8px 3px #3a3636;
     box-sizing: border-box;
-    margin: 15px 10px;
+    margin: 22px 15px;
     height: auto ;
 }
 .columna p{
@@ -88,7 +89,7 @@ body{
     color: #00dac7;
 }
 .verano{
-    transform: scale(1.10);
+    transform: scale(1.05);
 }
 .btn-precio{
     background-color: salmon;
